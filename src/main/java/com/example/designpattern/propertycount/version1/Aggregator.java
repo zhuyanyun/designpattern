@@ -61,6 +61,4 @@ public class Aggregator {
         requestStat.setTps(tps);
         return requestStat;
     }
-
-
 }

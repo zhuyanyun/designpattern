@@ -1,4 +1,4 @@
-package com.example.designpattern.propertycount.version2;
+package com.example.designpattern.propertycount.version3;
 
 import java.util.ArrayList;
 import java.util.HashMap;

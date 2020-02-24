@@ -10,6 +10,9 @@ public class MetricsCollector {
 
     private MetricsStorage metricsStorage;//基于接口而非实现编程
 
+    public MetricsCollector() {
+    }
+
     //依赖注入
     public MetricsCollector(MetricsStorage metricsStorage) {
         this.metricsStorage = metricsStorage;
